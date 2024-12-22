@@ -7,7 +7,7 @@ from aiogram.types import Message, CallbackQuery
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 import asyncio
 
-API_TOKEN = '8072626651:AAEmzENm9kkjQPlIThCfafpCksaTogrWrNw'
+API_TOKEN = ''
 
 bot = Bot(token=API_TOKEN)
 storage = MemoryStorage()
